@@ -1,0 +1,5 @@
+  platform: mqtt
+  state_topic: "sensors/exterior"
+  name: "Exterior temp sensor"
+  unit_of_measurement: "°C"
+  json_value: "temperature"
